@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xad3c5757B0533e6D510459E2885b0E65D255c690",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xad3c5757b0533e6d510459e2885b0e65d255c690",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Titano Warriors",
+  "SYMBOL": "TWNFT",
+  "MAX_SUPPLY": 600,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 333,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/titano-warriors",
+  "SHOW_BACKGROUND": true
+}
